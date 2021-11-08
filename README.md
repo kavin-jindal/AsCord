@@ -8,7 +8,7 @@
 
 
 
-# AsCord 0.0.4
+# AsCord 0.0.5
 
 ![AsCord](https://img.shields.io/badge/AsCord-0.0.5-green)
 
