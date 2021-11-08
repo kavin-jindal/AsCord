@@ -10,7 +10,7 @@
 
 # AsCord 0.0.6
 
-![AsCord](https://img.shields.io/badge/AsCord-0.0.2-green)
+![AsCord](https://img.shields.io/badge/AsCord-0.0.6-blue)
 
 
 ---
