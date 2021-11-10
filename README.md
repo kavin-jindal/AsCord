@@ -8,24 +8,11 @@
 
 
 
-# AsCord 0.0.6
+# AsCord 1.0.0
 
-![AsCord](https://img.shields.io/badge/AsCord-0.0.6-blue)
+![AsCord](https://img.shields.io/badge/AsCord-1.0.0-blue)
 
 
----
-
-# Update log
-
-**Update 0.0.4**: Fixed the cogs generation.
-
-**Update 0.0.3**: Fixed a bug.
-
-**Update 0.0.2**: Fixed the `__init__.py` file.
-
-**Update 0.0.1**: Initial release of AsCord.
-
----
 
 # Info: 
 
